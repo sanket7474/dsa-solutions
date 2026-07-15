@@ -1,0 +1,9 @@
+{
+  "name": "dsa-solutions",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My DSA practice solutions, synced from my tracker app.",
+  "scripts": {
+    "generate": "node scripts/generate-readme.js"
+  }
+}

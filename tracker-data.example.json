@@ -1,0 +1,22 @@
+{
+  "phases": {
+    "arrays": [
+      {
+        "name": "Two Sum",
+        "link": "https://leetcode.com/problems/two-sum/",
+        "pattern": "Hashing",
+        "difficulty": "Easy",
+        "status": "solved"
+      }
+    ],
+    "twoptr": [
+      {
+        "name": "3Sum",
+        "link": "https://leetcode.com/problems/3sum/",
+        "pattern": "Two Pointers",
+        "difficulty": "Medium",
+        "status": "solved"
+      }
+    ]
+  }
+}

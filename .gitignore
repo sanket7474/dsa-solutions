@@ -1,0 +1,14 @@
+# compiled class files
+*.class
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# your real tracker export - keep this out of git if it contains personal notes,
+# or remove this line if you want the sync file version-controlled too
+tracker-data.json
+
+# editor folders
+.vscode/
+.idea/
