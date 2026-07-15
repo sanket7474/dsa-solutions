@@ -6,7 +6,7 @@ One folder per topic, matching the tracker exactly:
 
 | Tracker topic | Folder |
 |---|---|
-| Setup & Recursion Refresh | `setup/` |
+| Setup & Recursion Refresh | `recursion-and-basics/` |
 | Arrays & Hashing | `arrays/` |
 | Two Pointers & Sliding Window | `two-pointers-sliding-window/` |
 | Binary Search | `binary-search/` |
