@@ -12,7 +12,7 @@ Run `node scripts/generate-readme.js` any time after updating the tracker to reg
 
 | Problem | Difficulty | Pattern | Source |
 |---|---|---|---|
-| [Fibonacci Series](recursionand-basics/Fibonacci.java) | Easy | Recursion | [LeetCode](https://leetcode.com/problems/fibonacci-number/) |
+| [Fibonacci Number](recursion-and-basics/Fibonacci.java) | Easy | Recursion | [LeetCode](https://leetcode.com/problems/fibonacci-number/) |
 
 ### Arrays & Hashing (0)
 
