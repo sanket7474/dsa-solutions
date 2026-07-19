@@ -13,6 +13,8 @@ Run `node scripts/generate-readme.js` any time after updating the tracker to reg
 | Problem | Difficulty | Pattern | Source |
 |---|---|---|---|
 | [Fibonacci Number](recursion-and-basics/Fibonacci.java) | Easy | Recursion | [LeetCode](https://leetcode.com/problems/fibonacci-number/) |
+| [Fibonacci Number](recursion-and-basics/PowerOfTwo.java) | Easy | Bit Manipulation | [LeetCode](https://leetcode.com/problems/power-of-two/) |
+
 
 ### Arrays & Hashing (0)
 
