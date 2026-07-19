@@ -2,7 +2,7 @@
 
 My solutions as I work through the roadmap in my [DSA tracker](../dsa-tracker-app) — one file per problem, organized by topic, synced automatically from the tracker's data.
 
-**1 solved so far.**
+**3 solved so far.**
 
 Run `node scripts/generate-readme.js` any time after updating the tracker to regenerate this table and create stub files for newly-solved problems.
 
@@ -13,7 +13,8 @@ Run `node scripts/generate-readme.js` any time after updating the tracker to reg
 | Problem | Difficulty | Pattern | Source |
 |---|---|---|---|
 | [Fibonacci Number](recursion-and-basics/Fibonacci.java) | Easy | Recursion | [LeetCode](https://leetcode.com/problems/fibonacci-number/) |
-| [Fibonacci Number](recursion-and-basics/PowerOfTwo.java) | Easy | Bit Manipulation | [LeetCode](https://leetcode.com/problems/power-of-two/) |
+| [Power Of Two](recursion-and-basics/PowerOfTwo.java) | Easy | Bit Manipulation | [LeetCode](https://leetcode.com/problems/power-of-two/) |
+| [Reverse String](recursion-and-basics/ReverseString.java) | Easy | Two Pointers | [LeetCode](https://leetcode.com/problems/reverse-string/) |
 
 
 ### Arrays & Hashing (0)
