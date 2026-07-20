@@ -2,13 +2,13 @@
 
 My solutions as I work through the roadmap in my [DSA tracker](../dsa-tracker-app) — one file per problem, organized by topic, synced automatically from the tracker's data.
 
-**4 solved so far.**
+**5 solved so far.**
 
 Run `node scripts/generate-readme.js` any time after updating the tracker to regenerate this table and create stub files for newly-solved problems.
 
 ---
 
-### Arrays & Hashing (1)
+### Arrays & Hashing (4)
 
 | Problem | Difficulty | Pattern | Source |
 |---|---|---|---|
@@ -18,10 +18,11 @@ Run `node scripts/generate-readme.js` any time after updating the tracker to reg
 | [Pow(x, n)](recursion-and-basics/PowerOfN.java) | Easy | Binary Exponentiation (Fast Power) | [LeetCode](https://leetcode.com/problems/powx-n//) |
 
 
-### Arrays & Hashing (0)
+### Arrays & Hashing (1)
 
 | Problem | Difficulty | Pattern | Source |
 |---|---|---|---|
+| [Contains Duplicate](arrays/ContainsDuplicate.java) | Easy | Hashing | [LeetCode](https://leetcode.com/problems/contains-duplicate) |
 
 ### Two Pointers & Sliding Window (0)
 
